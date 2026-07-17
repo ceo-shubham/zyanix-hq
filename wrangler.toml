@@ -1,0 +1,8 @@
+name = "zyanix-hq"
+compatibility_date = "2026-07-17"
+pages_build_output_dir = ".next"
+
+[[d1_databases]]
+binding = "zyanix_db"
+database_name = "zyanix-db"
+database_id = "d51fa06b-e714-40da-ba48-b59827d30cb1"

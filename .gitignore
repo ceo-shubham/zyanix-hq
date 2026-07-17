@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Wrangler local state (local D1, KV etc — do not commit)
+.wrangler/
+
+# Temp migration files
+_*.sql
